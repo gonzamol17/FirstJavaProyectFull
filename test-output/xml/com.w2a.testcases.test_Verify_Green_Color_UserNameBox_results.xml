@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="x1"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23,170">
+  <properties />
+  
+  
+            <testcase name="verifyGreenColorEmailBox" time="23,170" classname="com.w2a.testcases.test_Verify_Green_Color_UserNameBox" />
+      
+</testsuite>

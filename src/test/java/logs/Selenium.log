@@ -1,0 +1,139 @@
+09/05/2022 20:23:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -646600740
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ================ SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] 1127959331
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ================ SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@279ad2e3] 2094671495
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ================ SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ADDING NODE test_Verify_Color_Text.verifyCartEmptyBannerAndColor()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@279ad2e3] -174965268
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ================ SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@279ad2e3] 1271458848
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ================ SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+09/05/2022 20:23:59 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+09/05/2022 20:23:59  INFO Utils:112 - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+09/05/2022 20:23:59 DEBUG TestBase:50 - Config file loaded!!!
+09/05/2022 20:23:59 DEBUG TestBase:61 - OR file loaded!!!
+09/05/2022 20:24:05 DEBUG TestBase:76 - Chrome launched!!!
+09/05/2022 20:24:05  INFO TestBase:77 - This logs for info
+09/05/2022 20:24:11 DEBUG TestBase:87 - Navitaed to!!!: http://automationpractice.com/index.php
+09/05/2022 20:24:15  INFO TestBase:33 - Ver si llega esto
+09/05/2022 20:24:19 DEBUG TestBase:103 - Test execution completed
+23/05/2022 19:42:06 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -646600740
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ================ SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] 1127959331
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ================ SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:com.w2a.testcases.test_Verify_Footer_Elements@345965f2] -1986479722
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ================ SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ADDING NODE test_Verify_Footer_Elements.verifyFooterElements()[pri:0, instance:com.w2a.testcases.test_Verify_Footer_Elements@345965f2] 1378404408
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ================ SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:com.w2a.testcases.test_Verify_Footer_Elements@345965f2] 1485274927
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ================ SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+23/05/2022 19:42:07 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+23/05/2022 19:42:07  INFO Utils:112 - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+23/05/2022 19:42:07 DEBUG TestBase:50 - Config file loaded!!!
+23/05/2022 19:42:07 DEBUG TestBase:61 - OR file loaded!!!
+23/05/2022 19:42:12 DEBUG TestBase:76 - Chrome launched!!!
+23/05/2022 19:42:12  INFO TestBase:77 - This logs for info
+23/05/2022 19:42:17 DEBUG TestBase:87 - Navitaed to!!!: http://automationpractice.com/index.php
+23/05/2022 19:42:22  INFO TestBase:103 - Test execution completed
+30/05/2022 19:22:13 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -646600740
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] 1127959331
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@345965f2] -1986479722
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ADDING NODE test_Verify_Color_Text.verifyCartEmptyBannerAndColor()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@345965f2] 38850811
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@345965f2] 1485274927
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:15 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:15  INFO Utils:112 - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+30/05/2022 19:22:15 DEBUG TestBase:50 - Config file loaded!!!
+30/05/2022 19:22:15 DEBUG TestBase:61 - OR file loaded!!!
+30/05/2022 19:22:20 DEBUG TestBase:76 - Chrome launched!!!
+30/05/2022 19:22:20  INFO TestBase:77 - This logs for info
+30/05/2022 19:22:21 DEBUG TestBase:87 - Navitaed to!!!: http://automationpractice.com/index.php
+30/05/2022 19:22:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml"
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:null] -646600740
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:null] 1127959331
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.setUp()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@4d49af10] -1568079180
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ADDING NODE test_Verify_Color_Text.verifyCartEmptyBannerAndColor()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@4d49af10] 457251353
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ADDING NODE TestBase.tearDown()[pri:0, instance:com.w2a.testcases.test_Verify_Color_Text@4d49af10] 1903675469
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ================ SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] =============== DONE SORTING
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== SORTED NODES
+30/05/2022 19:22:46 DEBUG Graph:82 - [Graph] ====== END SORTED NODES
+30/05/2022 19:22:46  INFO Utils:112 - [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+30/05/2022 19:22:46 DEBUG TestBase:50 - Config file loaded!!!
+30/05/2022 19:22:46 DEBUG TestBase:61 - OR file loaded!!!
+30/05/2022 19:22:50 DEBUG TestBase:76 - Chrome launched!!!
+30/05/2022 19:22:50  INFO TestBase:77 - This logs for info
+30/05/2022 19:22:51 DEBUG TestBase:87 - Navitaed to!!!: http://automationpractice.com/index.php

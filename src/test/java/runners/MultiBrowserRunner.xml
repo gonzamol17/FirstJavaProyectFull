@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Data Driven Basics">
+
+    <test name="Regression by groups">
+        <groups>
+            <run>
+                <include name="regression"></include>
+            </run>
+        </groups>
+        <classes>
+             <class name="com.w2a.testcases.test_Verify_Color_Text"></class>
+            <class name="com.w2a.testcases.test_Verify_Green_Color_UserNameBox"></class>
+        </classes>
+     </test>
+
+
+</suite>

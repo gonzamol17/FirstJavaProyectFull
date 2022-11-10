@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTest"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="68,279">
+  <properties />
+  
+  
+            <testcase name="test1" time="16,892" classname="com.w2a.testcases.addMoreThanOneCustomerWithDataProvider" />
+                <testcase name="test1" time="17,416" classname="com.w2a.testcases.addMoreThanOneCustomerWithDataProvider" />
+                <testcase name="test1" time="17,076" classname="com.w2a.testcases.addMoreThanOneCustomerWithDataProvider" />
+                <testcase name="test1" time="16,895" classname="com.w2a.testcases.addMoreThanOneCustomerWithDataProvider" />
+      
+</testsuite>
